@@ -1,5 +1,6 @@
 DAFTAR DATA BAJU
 - Baju Koko
-- Baju T-Shirt 
 - Baju Kemeja
 - Baju long slive
+- Baju Batik 
+- Baju Anak
