@@ -1,7 +1,8 @@
 DAFTAR BAJU BARU 
 - BAJU PIYAMA
- - Motif Bunga
- - Motif Dayak
-- BAJU PANTAI 
+ # Motif Bunga
+  # Bunga Melati
+  # Bunga Kamboja
+ # Motif Dayak
 - BAJU 3/4
 - Baju Sekolah
