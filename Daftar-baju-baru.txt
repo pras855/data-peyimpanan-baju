@@ -8,3 +8,4 @@ DAFTAR BAJU BARU
 - Baju Sekolah
  # SMP
  - CELANA PENDEK 
+ - BAJU KARATE 
